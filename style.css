@@ -39,7 +39,7 @@ body {
         color: rgb(125, 242, 194);
         padding: 10%;
         border-color: green;
-        border-width: 5px;
+        border-width: 1px;
         border-style: solid;
         border-radius: 20px 50px 15px 120px;
     }
