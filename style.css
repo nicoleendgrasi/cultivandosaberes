@@ -29,7 +29,7 @@ body {
 
 }
 .brilho {
-   color: deepgray;
+   color: green;
     font-style: italic
 }
 .lista {
@@ -39,7 +39,7 @@ body {
         color: rgb(125, 242, 194);
         padding: 10%;
         border-color: sage;
-        border-width: 30px;
+        border-width: 10px;
         border-style: solid;
         border-radius: 20px 50px 15px 120px;
     }
@@ -51,8 +51,8 @@ nav a{
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
-    border-color: green;
-    border-width: 28px;
+    border-color: white;
+    border-width: 20px;
     border-style: solid; 
     backgound-color: gray;
 }
