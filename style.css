@@ -34,25 +34,25 @@ body {
 }
 .lista {
         display: inline-block;
-        padding: 8%;
+        padding: 10%;
         margin-right: 10%;
-        color: rgb(122, 242, 194);
-        padding: 8%;
+        color: rgb(125, 242, 194);
+        padding: 10%;
         border-color: green;
-        border-width: 20px;
+        border-width: 30px;
         border-style: solid;
-        border-radius: 18px 50px 10px 120px;
+        border-radius: 20px 50px 15px 120px;
     }
 
 nav a{
     text-transform: uppercase;
     text-align: center;
     color: dark;
-    font-weight: 200;
+    font-weight: 2300;
     font-size: 200%;
     text-decoration: none ;
     border-color: green;
-    border-width: 20px;
+    border-width: 28px;
     border-style: solid; 
     backgound-color: gray;
 }
