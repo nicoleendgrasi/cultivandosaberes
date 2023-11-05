@@ -34,10 +34,10 @@ body {
 }
 .lista {
         display: inline-block;
-        padding: 5%;
+        padding: 8%;
         margin-right: 10%;
         color: rgb(122, 242, 194);
-        padding: 5%;
+        padding: 8%;
         border-color: green;
         border-width: 20px;
         border-style: solid;
