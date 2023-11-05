@@ -1,19 +1,19 @@
       .cabecalho
 h1 {
-    color: green;
+    color: Black;
 }
 h2{
-    color: green;
+    color: black;
 }
 h3{
-    color: green;
+    color: black;
 }
 h4 {
-    color: green;
+    color: black;
 }
 
 body {
-    background-color: white;
+    background-color: ;
 
     text-align: center;
 }
@@ -29,7 +29,7 @@ body {
 
 }
 .brilho {
-   color: deepgreen;
+   color: deepgray;
     font-style: italic
 }
 .lista {
@@ -48,8 +48,8 @@ nav a{
     text-transform: uppercase;
     text-align: center;
     color: dark;
-    font-weight: 230;
-    font-size: 200%;
+    font-weight: 300;
+    font-size: 100%;
     text-decoration: none ;
     border-color: green;
     border-width: 28px;
